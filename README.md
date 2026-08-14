@@ -1,7 +1,4 @@
 # rag-pdf-chatbot
-
-⸻
-
 RAG-Based PDF Question Answering Chatbot
 
 Overview
