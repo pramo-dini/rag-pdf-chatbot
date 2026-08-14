@@ -1,5 +1,4 @@
 # rag-pdf-chatbot
-Here is your document with all Q&A-related content removed and cleaned for consistency:
 
 ⸻
 
